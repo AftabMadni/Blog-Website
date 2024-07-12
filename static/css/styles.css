@@ -10673,12 +10673,12 @@ header.masthead {
   margin-bottom: 3rem;
   padding-top: calc(8rem + 57px);
   padding-bottom: 8rem;
-  background: no-repeat center center;
+  background: no-repeat center top;
   background-color: #6c757d;
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
-  height:500px;
+  min-height:500px;
 }
 header.masthead:before {
   content: "";
